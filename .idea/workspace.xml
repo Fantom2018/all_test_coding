@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4cfc7a7-3d90-461b-8fec-2c9b0e75702c" name="Default Changelist" comment="index">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/all_test_coding.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e4cfc7a7-3d90-461b-8fec-2c9b0e75702c" name="Default Changelist" comment="gitignor" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1617813955835</updated>
       <workItem from="1617813956872" duration="2277000" />
+      <workItem from="1617819244735" duration="338000" />
     </task>
     <task id="LOCAL-00001" summary="index">
       <created>1617814500385</created>
@@ -69,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617814500385</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="gitignor">
+      <created>1617819366772</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617819366772</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,31 +86,37 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="index" />
-    <option name="LAST_COMMIT_MESSAGE" value="index" />
+    <MESSAGE value="gitignor" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignor" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1295" y="593" key="FileChooserDialogImpl" timestamp="1617814168642">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1295" y="593" key="FileChooserDialogImpl/0.0.2560.1400/-1920.447.1920.1160/2560.224.1920.1160/-1680.-615.1680.1010@0.0.2560.1400" timestamp="1617814168642" />
-    <state x="1195" y="661" key="Github.ShareDialog" timestamp="1617814245934">
+    <state x="1195" y="661" key="Github.ShareDialog" timestamp="1617819480293">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1195" y="661" key="Github.ShareDialog/0.0.2560.1400/-1920.447.1920.1160/2560.224.1920.1160/-1680.-615.1680.1010@0.0.2560.1400" timestamp="1617814245934" />
+    <state x="1195" y="661" key="Github.ShareDialog/0.0.2560.1400/-1920.447.1920.1160/2560.224.1920.1160/-1680.-615.1680.1010@0.0.2560.1400" timestamp="1617819480293" />
     <state x="1163" y="686" key="NewPhpFileDialog" timestamp="1617813983262">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1163" y="686" key="NewPhpFileDialog/0.0.2560.1400/-1920.447.1920.1160/2560.224.1920.1160/-1680.-615.1680.1010@0.0.2560.1400" timestamp="1617813983262" />
-    <state x="538" y="410" key="SettingsEditor" timestamp="1617819237284">
+    <state x="538" y="410" key="SettingsEditor" timestamp="1617819791846">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="538" y="410" key="SettingsEditor/0.0.2560.1400/-1920.447.1920.1160/2560.224.1920.1160/-1680.-615.1680.1010@0.0.2560.1400" timestamp="1617819237284" />
-    <state x="920" y="496" key="Vcs.Push.Dialog.v2" timestamp="1617814523231">
+    <state x="538" y="410" key="SettingsEditor/0.0.2560.1400/-1920.447.1920.1160/2560.224.1920.1160/-1680.-615.1680.1010@0.0.2560.1400" timestamp="1617819791846" />
+    <state x="920" y="496" key="Vcs.Push.Dialog.v2" timestamp="1617819580692">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="920" y="496" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.447.1920.1160/2560.224.1920.1160/-1680.-615.1680.1010@0.0.2560.1400" timestamp="1617814523231" />
+    <state x="920" y="496" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.447.1920.1160/2560.224.1920.1160/-1680.-615.1680.1010@0.0.2560.1400" timestamp="1617819580692" />
+    <state x="855" y="679" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617819390099">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="855" y="679" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/-1920.447.1920.1160/2560.224.1920.1160/-1680.-615.1680.1010@0.0.2560.1400" timestamp="1617819390099" />
   </component>
 </project>
